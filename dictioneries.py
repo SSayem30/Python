@@ -11,5 +11,6 @@ print(info.values())
 print(info.items())
 del info['Asta']
 print(info.pop('Naruto'))
+print(info)
 info['Goku']='Mastered Ultra Instinct'
 print(info['Goku'])
