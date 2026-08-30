@@ -15,5 +15,5 @@ def add_new_saiyan(name, age, form):
     saiyan_data.append(new_saiyan)
 add_new_saiyan('Gohan',23,'Beast Form')
 add_new_saiyan('Trunks',20,'Super Saiyan Rage')
-print(saiyan_data[2])
+print(saiyan_data[3])
 
