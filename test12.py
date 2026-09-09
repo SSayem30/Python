@@ -9,4 +9,4 @@ print(a)
 b=20
 if a>b:
     c=a*b
-    print(c)
+print(c)
