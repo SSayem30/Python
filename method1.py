@@ -7,6 +7,7 @@ class CarDesign:
         self.specialty=specialty
         print(f"{self.name} is running at {self.speed} Km/h and its specialty is {specialty}")
         CarDesign.count+=1
+        
 car1=CarDesign("BMW",200)
 car2=CarDesign("Supra",300)
 car1.display("Luxury")
