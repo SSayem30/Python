@@ -1,0 +1,2 @@
+hi, this is file handling in python, nice try
+Bankai is a special ability of Soul Reapers  Hi  there!Hello, World!
